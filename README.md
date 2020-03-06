@@ -2,4 +2,5 @@
 This is my Professional portfolio that will use AWS and ReactJS to create a full serverless web site
 
 ## Technologies used
-Git and Git Hub SSH 
+Git and Git Hub SSH
+Boilerplate templates for web site
